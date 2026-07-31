@@ -1,5 +1,5 @@
 # Angular20Poc
-
+[![Node.js CI](https://github.com/deepakporwal/angular-v20-poc/actions/workflows/node.js.yml/badge.svg)](https://github.com/deepakporwal/angular-v20-poc/actions/workflows/node.js.yml)
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.0.0.
 
 ## Development server
